@@ -1,7 +1,7 @@
 import java.util.LinkedList;
 //I added this to Github
 
-public class linkedLists {
+public class linkedListsPractise {
     public static void main(String[] args) throws Exception {
 
         LinkedList<String> List = new LinkedList<>();
